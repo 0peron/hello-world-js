@@ -17,3 +17,7 @@ function averageOfTwo(num1, num2) {
 }
 
 averageOfTwo(10,16)
+
+function wisePerson(wiseType, whatToSay) {
+	return (wiseType + whatToSay)
+}
